@@ -5,6 +5,8 @@
 This project predicts football match outcomes using machine learning and simulates full tournament results using a Monte Carlo approach.
 
 The system combines multiple gradient boosting models and advanced feature engineering to estimate match-level probabilities and tournament progression.
+
+
 <img width="852" height="526" alt="heatmap_chunk1" src="https://github.com/user-attachments/assets/4e1342a0-ade7-4e9d-a5f3-c600fbe1a425" />
 ---
 
